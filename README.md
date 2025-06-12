@@ -2,10 +2,10 @@
 
 Tenho 31 anos, moro em Florianópolis/SC e desde 2022 estou no universo da Programação.
 
-##Experiência
+### Experiência
 Estagiária tutora de Robótica, Lógica de Programação, Desenvolvimento Web, Desenvolvimento de Games e Design de Games.
 
-##Formação
+### Formação
 Graduanda em Análise e Desenvolvimento de Sistemas pela Estácio, com pervisão de formação em jul/2027.
 Desenvolvimento front-end (Vue.js) e Desenvolvimento back-end (Laravel) pelo SENAI.
 
