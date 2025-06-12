@@ -1,6 +1,6 @@
 ### Olá! Eu sou Helena Delpizzo. 👋
 
-Sou uma desenvolvedora web de 30 anos, moro em Florianópolis/SC e entrei para o mundo da Programação em 2022. Estou atualmente com um Curso Profissional de Desenvolvimento Full-Stack em andamento.
+Sou uma desenvolvedora web de 31 anos, moro em Florianópolis/SC e entrei para o mundo da Programação em 2022. Cursei Desenvolvimento Web de 2023 a 2024 e atualmente sou graduanda em Análise e Desenvolvimento de Sistemas.
 
 <div>
   <a href="http://github.com/Delpidel">
