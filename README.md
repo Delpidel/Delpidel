@@ -3,7 +3,7 @@
 Tenho 31 anos, moro em Florianópolis/SC e desde 2022 estou no universo da Programação.
 
 ### Experiência
-Desenvolvedora PHP/Laravel na empresa Casas da Água.
+Desenvolvedora PHP/Laravel (cargo atual).
 
 Professora Estagiária de Robótica, Lógica de Programação, Desenvolvimento Web, Desenvolvimento de Games e Design de Games.
 
