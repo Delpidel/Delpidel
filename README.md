@@ -1,6 +1,6 @@
 ### Olá! Eu sou Helena Delpizzo. 👋
 
-Tenho 32 anos, moro em Florianópolis/SC e desde 2022 estou no universo da Programação. 
+Tenho 32 anos, moro em Florianópolis/SC. 
 
 ### Experiência
 
