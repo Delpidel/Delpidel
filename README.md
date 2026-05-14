@@ -1,14 +1,17 @@
 ### Olá! Eu sou Helena Delpizzo. 👋
 
-Tenho 32 anos, moro em Florianópolis/SC e desde 2022 estou no universo da Programação.
+Tenho 32 anos, moro em Florianópolis/SC e desde 2022 estou no universo da Programação. 
 
 ### Experiência
-Desenvolvedora PHP/Laravel (cargo atual).
+
+Desenvolvedora PHP/Laravel.
 
 Professora Estagiária de Robótica, Lógica de Programação, Desenvolvimento Web, Desenvolvimento de Games e Design de Games.
 
+No momento, em busca de oportunidades para evoluir!
+
 ### Formação
-Graduanda em Análise e Desenvolvimento de Sistemas pela Estácio, com pervisão de formação em jul/2027.
+Graduanda em Análise e Desenvolvimento de Sistemas pela Estácio, com pervisão de formação em dez/2028.
 Desenvolvimento front-end (Vue.js) e Desenvolvimento back-end (Laravel) pelo SENAI.
 
 <div>
